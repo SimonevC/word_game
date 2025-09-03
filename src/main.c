@@ -8,6 +8,7 @@
 // TODO:
 // - Arrays maken voor de woorden, waar je ze in kan voeren
 // - Functie schrijven om die arrays in de bakcground tiles te zetten
+// - Add colors
 
 void init_gfx(void)
 {
